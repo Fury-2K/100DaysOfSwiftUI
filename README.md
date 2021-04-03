@@ -1,5 +1,5 @@
 # 100DaysOfSwiftUI
-#### This repo contains all projects of 100DaysOfSwiftUI challenge by Paul Hudson aka twostraws 
+#### This repo contains all projects of 100DaysOfSwiftUI challenge by Paul Hudson aka twostraws (Currently in progress :))
 ### Language used - SwiftUI
 
 ## Project 1: WeSplit
