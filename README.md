@@ -14,5 +14,10 @@ This is a simple game in which user has to choose the correct flag of the countr
 ### We also learned different gradient types -
 <img src="Screenshots/gradient_types.png" height= "500">
 
+## Project 3: Views&Modifiers
+This is just a simple project where we learn about modifiers and the basic functioning of `some View`.<br>
+<img src="Screenshots/proj3.png" height= "500"> |
+--- 
+
 # Credits
 Paul Hudson aka twostraws
