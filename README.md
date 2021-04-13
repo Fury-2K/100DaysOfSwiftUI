@@ -19,5 +19,10 @@ This is just a simple project where we learn about modifiers and the basic funct
 <img src="Screenshots/proj3.png" height= "500"> |
 --- 
 
+## Project 4: BetterRest
+This app uses CoreML to predict the sleep time based on the user's wakeup time, sleep goal and coffee he/she drinks.<br>
+<img src="Screenshots/proj4_1.png" height= "500"> | <img src="Screenshots/proj4_2.png" height= "500"> | <img src="Screenshots/proj4_3.png" height= "500"> | <img src="Screenshots/proj4_4.png" height= "500">
+--- | --- | --- | ---
+
 # Credits
 Paul Hudson aka twostraws
