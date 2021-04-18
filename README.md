@@ -30,9 +30,9 @@ This is a simple game in which player has to guess the words with same letters.<
 --- | --- 
 
 ### We also learned different list styles
-GroupedListStyle
-<img src="Screenshots/proj4_3.png" height= "500"> | DefaultListStyle <img src="Screenshots/proj4_4.png" height= "500">
+| DefaultListStyle | GroupedListStyle |
 --- | ---
+<img src="Screenshots/proj5_list1.png" height= "500"> | <img src="Screenshots/proj5_list2.png" height= "500">
 
 
 # Credits
