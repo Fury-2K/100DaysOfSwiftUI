@@ -24,5 +24,16 @@ This app uses CoreML to predict the sleep time based on the user's wakeup time, 
 <img src="Screenshots/proj4_1.png" height= "500"> | <img src="Screenshots/proj4_2.png" height= "500"> | <img src="Screenshots/proj4_3.png" height= "500"> | <img src="Screenshots/proj4_4.png" height= "500">
 --- | --- | --- | ---
 
+## Project 5: WordScramble
+This is a simple game in which player has to guess the words with same letters.<br>
+<img src="Screenshots/proj5_1.png" height= "500"> | <img src="Screenshots/proj5_2.png" height= "500">
+--- | --- 
+
+### We also learned different list styles
+GroupedListStyle
+<img src="Screenshots/proj4_3.png" height= "500"> | DefaultListStyle <img src="Screenshots/proj4_4.png" height= "500">
+--- | ---
+
+
 # Credits
 Paul Hudson aka twostraws
