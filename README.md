@@ -34,6 +34,9 @@ We also learned different list styles <br>
 --- | ---
 <img src="Screenshots/proj5_list1.png" height= "500"> | <img src="Screenshots/proj5_list2.png" height= "500">
 
+## Project 6: Animations
+In this project we learned a lot of different and easy ways of adding animations using swiftUI.
+| <img src="Screenshots/proj6.gif" height= "500"> | 
 
 # Credits
 Paul Hudson aka twostraws
