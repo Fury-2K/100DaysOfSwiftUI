@@ -34,6 +34,9 @@ GroupedListStyle
 <img src="Screenshots/proj4_3.png" height= "500"> | DefaultListStyle <img src="Screenshots/proj4_4.png" height= "500">
 --- | ---
 
+## Project 6: Animations
+In this project we learned a lot of different and easy ways of adding animations using swiftUI.
+| <img src="Screenshots/proj6.gif" height= "500"> | 
 
 # Credits
 Paul Hudson aka twostraws
