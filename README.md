@@ -37,5 +37,10 @@ We also learned different list styles <br>
 ## Project 6: Animations
 In this project we learned a lot of different and easy ways of adding animations using swiftUI. <br>
 <img src="Screenshots/proj6.gif" height= "500">
+
+## Project 7: iExpense
+This is a basic expense tracker app in which we use UserDefaults to store the expenses.<br>
+<img src="Screenshots/proj7_1.png" height= "500"> | <img src="Screenshots/proj7_2.png" height= "500"> | <img src="Screenshots/proj7_3.png" height= "500"> | <img src="Screenshots/proj7_3.png" height= "500">
+--- | --- | --- | ---
 # Credits
 Paul Hudson aka twostraws
