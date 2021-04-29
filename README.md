@@ -42,5 +42,10 @@ In this project we learned a lot of different and easy ways of adding animations
 This is a basic expense tracker app in which we use UserDefaults to store the expenses.<br>
 <img src="Screenshots/proj7_1.png" height= "500"> | <img src="Screenshots/proj7_2.png" height= "500"> | <img src="Screenshots/proj7_3.png" height= "500"> 
 --- | --- | ---
+
+## Project 8: Moonshot
+This is a simple navigationView integrated app which show data about moon missions.<br>
+<img src="Screenshots/proj8_1.gif" height= "500"> | <img src="Screenshots/proj8_2.gif" height= "500"> 
+--- | --- 
 # Credits
 Paul Hudson aka twostraws
