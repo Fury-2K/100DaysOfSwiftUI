@@ -47,5 +47,12 @@ This is a basic expense tracker app in which we use UserDefaults to store the ex
 This is a simple navigationView integrated app which show data about moon missions.<br>
 <img src="Screenshots/proj8_1.png" height= "500"> | <img src="Screenshots/proj8_2.png" height= "500"> 
 --- | --- 
+
+## Project 9: Drawing
+This is a project that tells us about path. Project under construction<br>
+
+## Project 10: CupcakeCorner
+In this app we learned about published and codable. This app allows user to book cupcakes.<br><br>
+<img src="Screenshots/proj10.png" height= "500">
 # Credits
 Paul Hudson aka twostraws
