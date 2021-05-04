@@ -53,6 +53,6 @@ This is a project that tells us about path. Project under construction<br>
 
 ## Project 10: CupcakeCorner
 In this app we learned about published and codable. This app allows user to book cupcakes.<br><br>
-<img src="Screenshots/proj10.png" height= "500">
+<img src="Screenshots/proj10.gif" height= "500">
 # Credits
 Paul Hudson aka twostraws
