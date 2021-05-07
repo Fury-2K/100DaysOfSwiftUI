@@ -48,14 +48,14 @@ This is a simple navigationView integrated app which show data about moon missio
 <img src="Screenshots/proj8_1.gif" height= "500"> | <img src="Screenshots/proj8_2.gif" height= "500"> 
 --- | --- 
 
-## Project 9: Drawing
+## Project 9: Drawing
 This is a project that tells us about path. Project under construction<br>
 
 ## Project 10: CupcakeCorner
 In this app we learned about published and codable. This app allows user to book cupcakes.<br><br>
 <img src="Screenshots/proj10.gif" height= "500">
 
-## Project 11: BookWorm
+## Project 11: BookWorm
 This is a project to track books user read. We also learned about @Binding who it can change the @State also and have a code for Size Class Demo using `@Environment(\.horizontalSizeClass) var sizeClass`. If we have View A that contains inside it View B, anything in the environment for View A will also be in the environment for View B (Only in case of NavigationView). We also learned how to add that list edit functionality.
 <img src="Screenshots/proj11_1.png" height= "500"> | <img src="Screenshots/proj11.gif" height= "500"> 
 --- | --- 
