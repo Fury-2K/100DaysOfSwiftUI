@@ -61,5 +61,7 @@ This is a project to track books user read. We also learned about @Binding who i
 <img src="Screenshots/proj11_1.png" height= "500"> | <img src="Screenshots/proj11.gif" height= "500"> 
 --- | --- 
 
+## Project 12: CoreDataProject
+In this app we learned `\.self` uses hasable to uniquely identify the values. This app teaches deeper coredata knowledge than the last project.<br><br>
 # Credits
 Paul Hudson aka twostraws
