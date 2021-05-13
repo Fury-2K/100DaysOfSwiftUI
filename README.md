@@ -62,6 +62,9 @@ This is a project to track books user read. We also learned about @Binding who i
 --- | --- 
 
 ## Project 12: CoreDataProject
-In this app we learned `\.self` uses hasable to uniquely identify the values. This app teaches deeper coredata knowledge than the last project.<br><br>
+In this app we learned `\.self` uses hasable to uniquely identify the values. This app teaches deeper coredata knowledge than the last project. This is more of a code wise project than the UI part.
+<img src="Screenshots/proj12_1.png" height= "500"> | <img src="Screenshots/proj12_2.png" height= "500"> 
+--- | --- 
+
 # Credits
 Paul Hudson aka twostraws
