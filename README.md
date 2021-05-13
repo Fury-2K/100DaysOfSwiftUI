@@ -1,6 +1,6 @@
 # 100DaysOfSwiftUI
 This repo contains all projects of 100DaysOfSwiftUI challenge by Paul Hudson aka twostraws (Currently in progress :))
-
+**Star it if you like it.**
 The following projects are something which have more of a learning when you use them in live projects.
 1. Project 6: Animations
 2. Project 11: BookWorm for coredata
