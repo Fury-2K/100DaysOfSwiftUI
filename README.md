@@ -1,6 +1,5 @@
 # 100DaysOfSwiftUI
 This repo contains all projects of 100DaysOfSwiftUI challenge by Paul Hudson aka twostraws (Currently in progress :))<br>
-**Star it if you like it.**<br>
 The following projects are something which have more of a learning when you use them in live projects.
 1. Project 6: Animations
 2. Project 11: BookWorm for coredata
@@ -71,6 +70,14 @@ This is a project to track books user read. We also learned about @Binding who i
 In this app we learned `\.self` uses hasable to uniquely identify the values. This app teaches deeper coredata knowledge than the last project. This is more of a code wise project than the UI part.
 <img src="Screenshots/proj12_1.png" height= "500"> | <img src="Screenshots/proj12_2.png" height= "500"> 
 --- | --- 
+
+# Having trouble ?
+
+If you are having trouble with this project or if you find any bugs, do open a new issue and describe the problem.
+Alternatively, you can drop me a mail @ manas.agrawal990@gmail.com.
+Spread the word!
+
+## Follow if you like it, ⭐️ if you love it.
 
 # Credits
 Paul Hudson aka twostraws
