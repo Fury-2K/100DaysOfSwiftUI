@@ -1,6 +1,5 @@
 # 100DaysOfSwiftUI
-This repo contains all projects of 100DaysOfSwiftUI challenge by Paul Hudson aka twostraws (Currently in progress :))
-
+This repo contains all projects of 100DaysOfSwiftUI challenge by Paul Hudson aka twostraws (Currently in progress :))<br>
 The following projects are something which have more of a learning when you use them in live projects.
 1. Project 6: Animations
 2. Project 11: BookWorm for coredata
@@ -77,6 +76,13 @@ In this app we learned about `CoreImage` and other image related stuff. This app
 <img src="Screenshots/proj13.gif" width= "300"> | <img src="Screenshots/proj13_1.png" width= "300"> 
 --- | --- 
 
+# Having trouble ?
+
+If you are having trouble with this project or if you find any bugs, do open a new issue and describe the problem.
+Alternatively, you can drop me a mail @ manas.agrawal990@gmail.com.
+Spread the word!
+
+## Follow if you like it, ⭐️ if you love it.
 
 # Credits
 Paul Hudson aka twostraws
