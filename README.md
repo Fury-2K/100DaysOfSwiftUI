@@ -73,7 +73,7 @@ In this app we learned `\.self` uses hasable to uniquely identify the values. Th
 
 ## Project 13: Instafilter
 In this app we learned about `CoreImage` and other image related stuff. This app can apply different filters to a selected image from image picker and save it in photos.
-<img src="Screenshots/proj13.gif" width= "300"> | <img src="Screenshots/proj13_1.png" width= "300"> 
+<img src="Screenshots/proj13.gif" height= "500"> | <img src="Screenshots/proj13_1.png" height= "500"> 
 --- | --- 
 
 # Having trouble ?
