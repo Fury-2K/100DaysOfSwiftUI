@@ -76,6 +76,11 @@ This app adds map pins to desired locations with some description and wiki searc
 <img src="Screenshots/proj13_1.png" height= "500"> | <img src="Screenshots/proj13.gif" height= "500"> 
 --- | --- 
 
+## Project 14: BucketList
+This app adds map pins to desired locations with some description and wiki search. We have also used face-id to secure it.
+<img src="Screenshots/proj14_1.png" height= "500"> | <img src="Screenshots/proj14.gif" height= "500"> 
+--- | --- 
+
 # Having trouble ?
 
 If you are having trouble with this project or if you find any bugs, do open a new issue and describe the problem.
