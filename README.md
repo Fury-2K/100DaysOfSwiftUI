@@ -71,16 +71,15 @@ In this app we learned `\.self` uses hasable to uniquely identify the values. Th
 <img src="Screenshots/proj12_1.png" height= "500"> | <img src="Screenshots/proj12_2.png" height= "500"> 
 --- | --- 
 
-## Project 13: BucketList
-This app adds map pins to desired locations with some description and wiki search. We have also used face-id to secure it.
-<img src="Screenshots/proj13_1.png" height= "500"> | <img src="Screenshots/proj13.gif" height= "500"> 
+## Project 13: Instafilter
+In this app we learned about `CoreImage` and other image related stuff. This app can apply different filters to a selected image from image picker and save it in photos.
+<img src="Screenshots/proj13.gif" height= "500"> | <img src="Screenshots/proj13_1.png" height= "500"> 
 --- | --- 
 
 ## Project 14: BucketList
 This app adds map pins to desired locations with some description and wiki search. We have also used face-id to secure it.
 <img src="Screenshots/proj14_1.png" height= "500"> | <img src="Screenshots/proj14.gif" height= "500"> 
 --- | --- 
-
 # Having trouble ?
 
 If you are having trouble with this project or if you find any bugs, do open a new issue and describe the problem.
